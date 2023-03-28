@@ -159,14 +159,6 @@ If you like this project kindly add ⭐️ to it.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- ACKNOWLEDGEMENTS -->
-
-## 🙏 Acknowledgments <a name="acknowledgements"></a>
-
-
-I would like to thank Mike Dane of Giraffe Academy and freeCodeCamp.org
-
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -174,6 +166,6 @@ I would like to thank Mike Dane of Giraffe Academy and freeCodeCamp.org
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](https://github.com/Harrynoqs/blog-app/blob/data-model/README.md) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
