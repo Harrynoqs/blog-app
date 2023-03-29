@@ -26,7 +26,7 @@
 # 📖 BlogApp <a name="about-project"></a>
 
 
-**BlogApp** This is a blog website that allows users to create posts, comments and likes.
+**BlogApp** I set up our models. To start with, I have tables for Users, Posts, Comments, and Likes, which means we need a model for each one. I've already set the foreign key in the table schema but be sure to write it here too!
 
 ## 🛠 Built With <a name="built-with"></a>
 
