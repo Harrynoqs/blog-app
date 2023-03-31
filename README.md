@@ -26,7 +26,7 @@
 # 📖 BlogApp <a name="about-project"></a>
 
 
-**BlogApp** I set up our models. To start with, I have tables for Users, Posts, Comments, and Likes, which means we need a model for each one. I've already set the foreign key in the table schema but be sure to write it here too!
+**BlogApp** I set up our models. To start with, I have tables for Users, Posts, Comments, and Likes, which means we need a model for each one. I've already set the foreign key in the table schema but be sure to write it here too! I added validations to the models and create specs for them.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -62,12 +62,6 @@
 - It is well designed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-Run `rails s` in the terminal and [click here](http://localhost:3000/) 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
