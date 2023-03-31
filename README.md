@@ -160,4 +160,4 @@ If you like this project kindly add ⭐️ to it.
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://github.com/Harrynoqs/blog-app/blob/validations-and-model-specs/README.md) licensed.
+This project is [MIT](https://github.com/Harrynoqs/blog-app/blob/validations-and-model-specs/LICENSE) licensed.
