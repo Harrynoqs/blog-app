@@ -26,7 +26,7 @@
 # 📖 BlogApp <a name="about-project"></a>
 
 
-**BlogApp** I set up our models. To start with, I have tables for Users, Posts, Comments, and Likes, which means we need a model for each one. I've already set the foreign key in the table schema but be sure to write it here too! I added validations to the models and create specs for them.
+**BlogApp** In this project, I createed all controllers and views for your Blog app. As i won't be processing any data yet, I added simple placeholders for your views with plain HTML.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -146,6 +146,10 @@ Feel free to check the [issues page](../../issues/).
 <!-- SUPPORT -->
 
 ## ⭐️ Show your support <a name="support"></a>
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+I would like to thank `Mike Dane` of `Giraffe Academy` and `freeCodeCamp.org` for wonderful tutorials. Big shout out to `Microverse` for an awesome curriculum. Hats off to my coding partners and my peers for a constant support. Without all of you, this project wouldn't be 
 
 
 
