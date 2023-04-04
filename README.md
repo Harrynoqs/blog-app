@@ -147,6 +147,10 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+I would like to thank `Mike Dane` of `Giraffe Academy` and `freeCodeCamp.org` for wonderful tutorials. Big shout out to `Microverse` for an awesome curriculum. Hats off to my coding partners and my peers for a constant support. Without all of you, this project wouldn't be 
+
 
 
 If you like this project kindly add ⭐️ to it.
