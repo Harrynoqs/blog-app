@@ -8,7 +8,7 @@ class Post < ApplicationRecord
     User.find_by(name: author.name).increment!(:posts_counter)
   end
 
-  def latest_comments
+  def recent_comments
     comments.order(created_at: :desc).limit(5)
   end
 
