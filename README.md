@@ -26,7 +26,8 @@
 # 📖 BlogApp <a name="about-project"></a>
 
 
-**BlogApp** In this project, I createed all controllers and views for your Blog app. As i won't be processing any data yet, I added simple placeholders for your views with plain HTML.
+**BlogApp** 
+In this project, I set up tests on the controllers I recently added to my Blog app.
 
 ## 🛠 Built With <a name="built-with"></a>
 
