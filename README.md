@@ -30,7 +30,7 @@
 
 # 📖 BLOG <a name="about-project"></a>
 
-In this milestone I added forms to my Blog app.
+In this milestone I created integration tests for all of the views used in the project. I covered the user stories (or user workflows) that I want my users to experience while taking into consideration the possible errors my users may cause.
 
 
 
