@@ -30,7 +30,7 @@
 
 # 📖 BLOG <a name="about-project"></a>
 
-In this milestone I created integration tests for all of the views used in the project. I covered the user stories (or user workflows) that I want my users to experience while taking into consideration the possible errors my users may cause.
+In this milestone, I added the devise gem to my app and used it for the registration and login of users.
 
 
 
@@ -209,7 +209,7 @@ Kudos to my peer whom we travel this journey together.***
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://github.com/Harrynoqs/blog-app/blob/n%2B1-problems/LICENSE.md) licensed.
+This project is [MIT](https://github.com/Harrynoqs/blog-app/blob/add-devise/LICENSE.md) licensed.
 
 NOTE: we recommend using the MIT license - you can set it up quickly by using templates available on GitHub. You can also use any other license if you wish.
 
