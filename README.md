@@ -124,9 +124,15 @@ To run the project, execute the following command:
 
 To run tests, run the following command:
 
-```sh
-bundle exec rspec
+```sh## bundle exec rspec
 ```
+
+
+### Key Features <a name="key-features"></a>
+
+- **Log into the application**
+- **Create a post for the application users**
+- **Interact with the posts (Like post or comment on Post)**
 
 <!--
 ### Deployment
@@ -203,7 +209,7 @@ Kudos to my peer whom we travel this journey together.***
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](https://github.com/Harrynoqs/blog-app/blob/n%2B1-problems/LICENSE.md) licensed.
 
 NOTE: we recommend using the MIT license - you can set it up quickly by using templates available on GitHub. You can also use any other license if you wish.
 
