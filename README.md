@@ -156,15 +156,6 @@ Example:
   - Twitter: [@Harrynoqs](https://twitter.com/noqsnoq1)
   - LinkedIn: [harrisonw-njuguna](https://linkedin.com/in/harrisonw-njuguna)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## 🔭 Future Features <a name="future-features"></a>
-
-> Describe features you will add to the project.
-
-- [ ] **[Likes for comments]**
-- [ ] **[Images for commenters]**
-
 
 <!-- CONTRIBUTING -->
 
@@ -180,9 +171,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
-
-If you like this project...
+If you like this project kindly add ⭐️ to it.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -190,9 +179,10 @@ If you like this project...
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
 
-I would like to thank...
+***I would like to thank Mike Dane of Giraffe Academy and freeCodeCamp.org
+Big shout out to Microverse team for such an wonderful curriculum
+Kudos to my peer whom we travel this journey together.***
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -216,7 +206,7 @@ I would like to thank...
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://github.com/Harrynoqs/blog_app/blob/views/LICENSE.md) licensed.
+This project is [MIT](./LICENSE) licensed.
 
 NOTE: we recommend using the MIT license - you can set it up quickly by using templates available on GitHub. You can also use any other license if you wish.
 
