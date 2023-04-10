@@ -147,9 +147,6 @@ Example:
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
-
-
 👤 **Harrison Njuguna**
 
   - GitHub: [@Harrynoqs](https://github.com/Harrynoqs)
